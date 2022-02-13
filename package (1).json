@@ -1,0 +1,32 @@
+{
+  "name": "nuker",
+  "version": "2.0.0",
+  "description": "Nuking bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "phin": "^3.5.1",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Nie",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macias100/discord-server-nuker.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Macias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macias100/discord-server-nuker/issues"
+  },
+  "homepage": "https://github.com/macias100/discord-server-nuker#readme"
+}
